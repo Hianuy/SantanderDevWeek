@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SantanderLayout</string>
+    <string name="menu1">Menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
+    <string name="saldo_limite">Saldo - Limite</string>
+    <string name="ver_extrato">Ver Extrato</string>
+    <string name="saldo_disponivel">Saldo disponível</string>
+    <string name="saldo_exemplo">R$ 1.200,00</string>
+    <string name="pagar">Pagar</string>
+    <string name="pix">Pix</string>
+    <string name="transferir">Transferir</string>
+    <string name="cobrar">Cobrar</string>
+    <string name="comprovantes">Comprovantes</string>
+    <string name="recarregar">recarregar</string>
+    <string name="cartao_final">Cartão final</string>
+    <string name="msg_card_shopping">Conheça o Shopping Santander: as melhores ofertas e benefícios: Clique aqui!</string>
+    <string name="cartoes">Cartões</string>
+    <string name="santander_play">Santander Play</string>
+    <string name="limite_disponivel">Limite disponivel</string>
+    <string name="ver_fatura">Ver fatura</string>
+    <string name="cartao_online">Cartão Online</string>
+    <string name="emprestimo">Empréstimos</string>
+    <string name="emprestimos">Emprestimos</string>
+    <string name="organize_sua_vida">Organize sua vida financeira</string>
+    <string name="quantidade_maxima_emprestimo">Quer uma força no que precisar? Você tem um crédito de até:</string>
+    <string name="r_22_280_64">R$ 22.280,64</string>
+
+</resources>

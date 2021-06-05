@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <!--não quero que este item seja exibido no menu-->
+    <!-- app:showAsAction="never Quando eu clico nos tres pontinhos ele abre um drop Down-->
+
+    <item android:id="@+id/item_1"
+        android:title="@string/menu2"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_notifications_none_24"
+        />
+
+    <!-- ifRoom Basicamente cria um outro item aqui ou seja é criado-->
+    <!-- Outro menu de fato especifico para esse item-->
+
+
+
+
+</menu>
